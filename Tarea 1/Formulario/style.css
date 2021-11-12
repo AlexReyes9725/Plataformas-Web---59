@@ -1,0 +1,14 @@
+1{
+    color: rgb(21, 3, 68);
+}
+body{
+    border: blue 3px solid;
+    padding: 12px 32px 42px;
+    margin: 12px 402px 32px;
+    left: 22px;
+    position: relative;
+}
+
+.item {
+    border: 0.5px solid (3, 5, 1);
+}
